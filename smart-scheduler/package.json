@@ -62,7 +62,7 @@
     "react-day-picker": "8.10.1",
     "react-dom": "^19",
     "react-hook-form": "^7.54.1",
-    "react-native": "latest",
+    "react-native": "0.82.1",
     "react-native-gesture-handler": "latest",
     "react-native-safe-area-context": "latest",
     "react-native-screens": "latest",
