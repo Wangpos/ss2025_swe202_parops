@@ -50,7 +50,7 @@
     "cmdk": "1.0.4",
     "date-fns": "4.1.0",
     "embla-carousel-react": "8.5.1",
-    "expo": "^53.0.11",
+    "expo": "^54.0.26",
     "expo-device": "latest",
     "expo-font": "latest",
     "expo-notifications": "latest",
